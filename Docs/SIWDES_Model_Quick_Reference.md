@@ -5,6 +5,8 @@
 ### Model Name: SIWDES
 **S**upercritical CO2 - **I**nterface - **W**ater film - **D**eposition - **E**lectrodic - **S**olid
 
+*Note: The acronym contains two 'S' regions - the first for Supercritical CO2 (bulk fluid) and the last for Solid steel substrate. These represent the two boundaries of the corrosion system.*
+
 ---
 
 ## Region Descriptions
